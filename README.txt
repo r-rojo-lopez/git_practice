@@ -12,7 +12,7 @@ Pasos para crear un repositorio en local y en GitHub
 	
 3. Crear el repositorio en GitHUb:
 	3.1. Click "New repository",
-	3.2. Dar nombre al repositorio,
+	3.2. Dar nombre al repositorio y no crear readme ni otro tipo de ficheros inicialmente. ESto puede dar lugar a incidencias en el futuro,
 	3.3. git remote add origin https://github.com/r-rojo-lopez/git_practice.git
 	3.4. git push -u origin master
 	3.5. Tras el paso 3.4. puede aparecer un error tras pedir la contraseña: darla está obsoleto. Para solucionarlo se debe introducir el token. Para generar un token, ver este vídeo: 
